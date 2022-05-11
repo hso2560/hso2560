@@ -1,9 +1,10 @@
 
-<img src="https://img.shields.io/badge/Unity-green?style=flat-square&logo=UNITY&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-00CBEC?style=flat-square&logo=GITHUB&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity-green?style=flat-square&logo=UNITY&logoColor=#FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GITHUB&logoColor=#181717"/>
 <img src="https://img.shields.io/badge/Git-1F8ACB?style=flat-square&logo=GIT&logoColor=#F05032"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=SOURCETREE&logoColor=#0052CC"/>
-
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=#5C2D91"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VISUAL STUDIO CODE&logoColor=#007ACC"/>
 
 ![hansangsu45's github stats](https://github-readme-stats.vercel.app/api?username=hansangsu45&show_icons=true)
 

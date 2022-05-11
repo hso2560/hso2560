@@ -1,5 +1,7 @@
 
 <img src="https://img.shields.io/badge/Unity-green?style=flat-square&logo=UNITY&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GITHUB&logoColor=#181717"/>
+<img src="https://img.shields.io/badge/Git-0080FF?style=flat-square&logo=GIT&logoColor=#F05032"/>
 
 ![hansangsu45's github stats](https://github-readme-stats.vercel.app/api?username=hansangsu45&show_icons=true)
 

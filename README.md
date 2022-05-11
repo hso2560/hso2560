@@ -1,7 +1,7 @@
 
 
 
-![test's github stats](https://github-readme-stats.vercel.app/api?username=hansangsu45&show_icons=true)
+![hansangsu45's github stats](https://github-readme-stats.vercel.app/api?username=hansangsu45&show_icons=true)
 
 <!--
 **hansangsu45/hansangsu45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

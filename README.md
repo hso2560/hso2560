@@ -1,5 +1,9 @@
 
-<h3 align = "center">Tools</h3>
+<h3 align = "center">🛠Tech Stack</h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSHARP&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPLUSPLUS&logoColor=white"/>
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=UNITY&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GITHUB&logoColor=white"/>
@@ -9,7 +13,11 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VISUAL STUDIO CODE&logoColor=white"/>
 </p>
  
+ <h3 align = "left">🔭 Github Stat</h3>
+ 
 ![hansangsu45's github stats](https://github-readme-stats.vercel.app/api?username=hansangsu45&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansangsu45&langs_count=8)](https://github.com/hansangsu45/github-readme-stats)
 
 <!--
 **hansangsu45/hansangsu45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

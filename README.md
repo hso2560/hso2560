@@ -16,9 +16,9 @@
  
  <h1 align = "left">🔭 Github Stat</h1>
  
-![hansangsu45's github stats](https://github-readme-stats.vercel.app/api?username=hansangsu45&show_icons=true)
+![hso2560's github stats](https://github-readme-stats.vercel.app/api?username=hso2560&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansangsu45&langs_count=8&layout=compact)](https://github.com/hansangsu45/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hso2560&langs_count=8&layout=compact)](https://github.com/hso2560/github-readme-stats)
 
 <!--
 **hansangsu45/hansangsu45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
